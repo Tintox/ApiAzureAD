@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "lw3AfHt58xT5TLKOXtJfQS2zawzcG/alYBc6t5T51hsUiRtxxIk7kxDj0wZH1AuumUc2WqRfPabpHcdmM7618Q==",
+  "success": true,
+  "projectFilePath": "G:\\AccesoDMZApi\\ApisMetro\\PruebasMetro\\APIExterna\\APIExterna.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ngutierrez\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.10\\microsoft.aspnetcore.authentication.jwtbearer.3.1.10.nupkg.sha512",
+    "C:\\Users\\ngutierrez\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.10\\microsoft.extensions.configuration.3.1.10.nupkg.sha512",
+    "C:\\Users\\ngutierrez\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.10\\microsoft.extensions.configuration.abstractions.3.1.10.nupkg.sha512",
+    "C:\\Users\\ngutierrez\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.10\\microsoft.extensions.configuration.binder.3.1.10.nupkg.sha512",
+    "C:\\Users\\ngutierrez\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.10\\microsoft.extensions.configuration.fileextensions.3.1.10.nupkg.sha512",
+    "C:\\Users\\ngutierrez\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.10\\microsoft.extensions.configuration.json.3.1.10.nupkg.sha512",
+    "C:\\Users\\ngutierrez\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.10\\microsoft.extensions.fileproviders.abstractions.3.1.10.nupkg.sha512",
+    "C:\\Users\\ngutierrez\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.10\\microsoft.extensions.fileproviders.physical.3.1.10.nupkg.sha512",
+    "C:\\Users\\ngutierrez\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.10\\microsoft.extensions.filesystemglobbing.3.1.10.nupkg.sha512",
+    "C:\\Users\\ngutierrez\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.10\\microsoft.extensions.primitives.3.1.10.nupkg.sha512",
+    "C:\\Users\\ngutierrez\\.nuget\\packages\\microsoft.identity.client\\4.23.0\\microsoft.identity.client.4.23.0.nupkg.sha512",
+    "C:\\Users\\ngutierrez\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.5.0\\microsoft.identitymodel.jsonwebtokens.5.5.0.nupkg.sha512",
+    "C:\\Users\\ngutierrez\\.nuget\\packages\\microsoft.identitymodel.logging\\5.5.0\\microsoft.identitymodel.logging.5.5.0.nupkg.sha512",
+    "C:\\Users\\ngutierrez\\.nuget\\packages\\microsoft.identitymodel.protocols\\5.5.0\\microsoft.identitymodel.protocols.5.5.0.nupkg.sha512",
+    "C:\\Users\\ngutierrez\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\5.5.0\\microsoft.identitymodel.protocols.openidconnect.5.5.0.nupkg.sha512",
+    "C:\\Users\\ngutierrez\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.5.0\\microsoft.identitymodel.tokens.5.5.0.nupkg.sha512",
+    "C:\\Users\\ngutierrez\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\ngutierrez\\.nuget\\packages\\system.identitymodel.tokens.jwt\\5.5.0\\system.identitymodel.tokens.jwt.5.5.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
